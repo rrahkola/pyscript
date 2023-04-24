@@ -46,6 +46,7 @@ Docs
 ----
 
 - Add docs for event handlers
+- Re-integrate Getting Started doc into Tutorials section
 
 2023.01.1
 =========

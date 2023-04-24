@@ -4,10 +4,16 @@ This section contains pyscript tutorials. Each tutorial is a self-contained docu
 
 ## Getting Started
 
-This tutorial will guide you through getting started with PyScript, from installation to writing your first PyScript application. The getting started will show you how to specify dependencies,  read a csv file from the web, use `pandas` and `matplotlib` and how to handle user input.
+The following tutorial will guide you through getting started with PyScript, from installation to writing your first PyScript application.
+The getting started will show you how to specify dependencies, read a csv file from the web, use `pandas` and `matplotlib` and how to handle user input.
 
-[Read the get started tutorial](getting-started.md)
-
+```{toctree}
+---
+maxdepth: 1
+glob:
+---
+getting-started
+```
 
 ## Basics
 
